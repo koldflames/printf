@@ -16,7 +16,7 @@ int _printf(const char *format, ...)
 
 	if (format == NULL)
 		return (-1);
-	
+
 	/* Start the variadic function */
 	va_start(list, format);
 
