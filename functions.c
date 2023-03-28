@@ -6,7 +6,7 @@
  * print_char - The func that prints a char
  * @types: This gives the list a of arguments
  * @buffer: The buffer array to handle print
- * @flags:  Calculates active flags
+ * @flags: Calculates active flags
  * @width: Width
  * @precision: Precision specification
  * @size: Size specifier
